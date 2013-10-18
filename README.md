@@ -7,6 +7,8 @@ Voice Broadcasting and automated phone dialers have existed for a long time. Peo
 
 By utilising the elasticity of the cloud and the recent advances in communication software, we can now scale and automate these traditional business applications to much greater magnitude and at a greatly reduced cost. For instance, CallHub can make 6000 simultaneous calls at a cost of 1.5c for a 30 sec call. With this we can make voice broadcasting available to every all businesses for as low as $25. This turns the traditional phone dialer and voice broadcasting business on its head. This is like the shift from the traditional on-site web hosting to the cloud-based pay-as-you-go hosting model for voice broadcasting industry.
 
+The complete features of CallHub is here, https://callhub.io/voice-broadcasting/
+
 For any sales and marketing organisation, the ability to generate live leads that they can talk to is invaluable. Only large businesses could afford these phone dialer systems before. CallHub makes it these highly scalable and reliable systems available to all businesses from small one-man shops to large corporations.
 
 CallHub is perhaps the only voice broadcasting system that provides solid reliability, faster number of calls per seconds and scales smoothly to large call volume. We also get strong positive feedback for our simple and smooth user interface.
